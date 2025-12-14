@@ -1,0 +1,118 @@
+[
+  {
+    "model_file": "churn_model_v1_20251213_111423.joblib",
+    "version": "v1",
+    "trained_at_utc": "20251213_111423",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233438,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.7,
+    "passed_gate": false
+  },
+  {
+    "model_file": "churn_model_v1_20251213_111527.joblib",
+    "version": "v1",
+    "trained_at_utc": "20251213_111527",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1_threshold_05": 0.6624605678233438,
+      "f1": 0.7164179104477612,
+      "best_threshold": 0.36,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.7,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20251213_113425.joblib",
+    "version": "v1",
+    "trained_at_utc": "20251213_113425",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233438,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.65,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v1_20251213_113440.joblib",
+    "version": "v1",
+    "trained_at_utc": "20251213_113440",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1_threshold_05": 0.6624605678233438,
+      "f1": 0.7164179104477612,
+      "best_threshold": 0.36,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.7,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v2_20251213_113803.joblib",
+    "version": "v2",
+    "trained_at_utc": "20251213_113803",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233438,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.7,
+    "passed_gate": false
+  },
+  {
+    "model_file": "churn_model_v2_20251213_113920.joblib",
+    "version": "v2",
+    "trained_at_utc": "20251213_113920",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233438,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.65,
+    "passed_gate": true
+  },
+  {
+    "model_file": "churn_model_v3_20251213_140527.joblib",
+    "version": "v3",
+    "trained_at_utc": "20251213_140527",
+    "data_file": "processed.csv",
+    "seed": 42,
+    "metrics": {
+      "accuracy": 0.6433333333333333,
+      "precision": 0.6687898089171974,
+      "recall": 0.65625,
+      "f1": 0.6624605678233438,
+      "baseline_f1": 0.0
+    },
+    "gate_f1": 0.65,
+    "passed_gate": true
+  }
+]
