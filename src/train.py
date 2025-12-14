@@ -351,7 +351,11 @@ def build_model_pipeline(
 
 
 
-def main(version: str = "v1", seed: int = 42, gate_f1: float = 0.60) -> None:
+<<<<<<< Updated upstream
+def main(version: str = "v1", seed: int = 42, gate_f1: float = 0.70) -> None:
+=======
+def main(version: str = "v1", seed: int = 42, gate_f1: float = 0.70) -> None:
+>>>>>>> Stashed changes
 
     """
 
