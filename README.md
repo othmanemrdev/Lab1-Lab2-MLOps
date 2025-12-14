@@ -2,7 +2,8 @@ Lab 1 : Du notebook au mini-système production-ready
 
 Étape 1 : Initialiser la structure du projet
 Crée un dossier de travail :
- 
+ <img width="975" height="402" alt="image" src="https://github.com/user-attachments/assets/5fb64dec-be47-44ff-9391-fc8a3a21b4f9" />
+
 Crée les dossiers suivants :
    
 Crée le fichier identifiant le modèle actif :
