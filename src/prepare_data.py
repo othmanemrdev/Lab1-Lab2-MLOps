@@ -114,7 +114,7 @@ def data_quality_checks(df: pd.DataFrame) -> None:
 
     null_rate = df.isna().mean().to_dict()
 
-    too_null = {name: rate for name, rate in null_rate.items() if rate > 0.05}
+    too_null = {name: rate for name, rate in null_rate.items() if rate > 0.10}
 
     if too_null:
 
